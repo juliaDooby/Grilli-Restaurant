@@ -1,4 +1,4 @@
-## Grilli is a fully responsive restaurant website,
+## Grilli is a fully responsive restaurant website.
 Responsive for all devices, build using HTML, CSS, and JavaScript.
 
 ![HTML5](https://img.shields.io/badge/html5-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=%2361DAFB)
