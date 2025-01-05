@@ -6,11 +6,10 @@
 
 <a href="https://juliadooby.github.io/Grilli-Restaurant/"><strong>➥Demo</strong></a>
 
-<div align="center"><img src="" width="100%" height="20%"></img></div>
-<div align="center"><img src="" width="100%" height="20%"></img></div>
-<div align="center"><img src="" width="100%" height="20%"></img></div>
-<div align="center"><img src="" width="100%" height="20%"></img></div>
-<div align="center"><img src="" width="100%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/Grilli-Restaurant/blob/main/Grilli_1.JPG" width="100%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/Grilli-Restaurant/blob/main/Grilli_2.JPG" width="100%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/Grilli-Restaurant/blob/main/Grilli_3.JPG" width="100%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/Grilli-Restaurant/blob/main/Grilli_4.JPG" width="100%" height="20%"></img></div>
 
 ---
 
